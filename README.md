@@ -5,6 +5,9 @@
 **Smart India Hackathon 2026 — SIH26042**
 
 > **Learn in the language you understand.**
+## 🚀 Live Demo
+
+**[Bhasha Shiksha Setu — Live Demo](https://bhasha-shiksha-setu.vercel.app)**
 
 Bhasha Shiksha Setu is a full-stack multilingual education platform designed to reduce language barriers in primary education. It brings together **students, teachers, AI-assisted learning, multilingual translation, voice interaction, educational content, and administration** in a single platform.
 
